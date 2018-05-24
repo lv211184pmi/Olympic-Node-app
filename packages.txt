@@ -1,0 +1,15 @@
+express = NODEJS framework
+
+express-ejs-layouts - html template creator using ejs
+
+mongoose - mongoDB client
+
+body-parser package - parsed an URL to get data from there
+
+express-session - official session package for express
+
+cookie-parser - sets coockies in session
+
+connect-flash - connects flash store on the session
+
+express-validator - provides a middle-ware to validate incoming data
